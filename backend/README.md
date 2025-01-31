@@ -20,9 +20,25 @@ pip install -r requirements.txt
 cd backend
 ```
 
+
 3. Start the backend server:
 ```sh
 python3 main.py
+```
+
+4. server endpoint:
+```sh
+localhost:8088
+```
+
+5. docs endpoint:
+```sh
+localhost:8088/docs
+```
+
+6. redocs endpoint:
+```sh
+localhost:8088/redocs
 ```
 
 The backend server will start running locally.
